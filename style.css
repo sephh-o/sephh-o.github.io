@@ -1,0 +1,39 @@
+h1{
+font-size: 40px;
+font-family: " Lucida Console", monospace;
+text-align: center;
+color: lightskyblue;
+}
+
+h2{
+font-size: 30px;
+font-family: "Lucida Handwriting", serif;
+text-align: center;
+color: lightblue;
+}
+
+h3{
+font-size: 22px;
+font-family: "Papyrus", serif;
+text-align: left;
+color: mediumpurple;
+padding-left: 15px;
+}
+
+p{
+font-size: 20px;
+text-align: justify;
+font-family: Garamond, serif;
+color: floralwhite;
+}
+
+.container{
+	max-width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+background-image: url("https://media.tenor.com/oqt69E8cWukAAAAC/zodiac-zodiacs.gif");
+background-size: cover;
+}
